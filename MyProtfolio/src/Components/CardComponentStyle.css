@@ -1,0 +1,8 @@
+.prtofolioCard{
+    width: 14rem;
+    height: 14rem;
+    box-shadow:  8px 8px 8px grey;
+}
+.protfolioCardTitle{
+    color: white;
+}

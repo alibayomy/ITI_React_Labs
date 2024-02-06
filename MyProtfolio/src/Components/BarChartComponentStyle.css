@@ -1,0 +1,12 @@
+.barChartContainer{
+    height: 30px;
+    border-radius: 0%;
+}
+.barCharTitle
+{
+    background-color: #959188;
+}
+.barChart
+{
+    background-color: #C4C2BC;
+}
